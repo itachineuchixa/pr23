@@ -1,0 +1,17 @@
+C:\Users\Студент\Downloads\pr2305\obj\Debug\pr2305.csproj.AssemblyReference.cache
+C:\Users\Студент\Downloads\pr2305\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Downloads\pr2305\obj\Debug\WindowAddPreparate.g.cs
+C:\Users\Студент\Downloads\pr2305\obj\Debug\App.g.cs
+C:\Users\Студент\Downloads\pr2305\obj\Debug\pr2305_MarkupCompile.cache
+C:\Users\Студент\Downloads\pr2305\obj\Debug\pr2305_MarkupCompile.lref
+C:\Users\Студент\Downloads\pr2305\bin\Debug\pr2305.exe.config
+C:\Users\Студент\Downloads\pr2305\bin\Debug\pr2305.exe
+C:\Users\Студент\Downloads\pr2305\bin\Debug\pr2305.pdb
+C:\Users\Студент\Downloads\pr2305\obj\Debug\MainWindow.baml
+C:\Users\Студент\Downloads\pr2305\obj\Debug\WindowAddPreparate.baml
+C:\Users\Студент\Downloads\pr2305\obj\Debug\pr2305.g.resources
+C:\Users\Студент\Downloads\pr2305\obj\Debug\pr2305.Properties.Resources.resources
+C:\Users\Студент\Downloads\pr2305\obj\Debug\pr2305.csproj.GenerateResource.cache
+C:\Users\Студент\Downloads\pr2305\obj\Debug\pr2305.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Downloads\pr2305\obj\Debug\pr2305.exe
+C:\Users\Студент\Downloads\pr2305\obj\Debug\pr2305.pdb
